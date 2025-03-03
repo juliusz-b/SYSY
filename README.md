@@ -26,10 +26,10 @@
 ## Jak Korzystać z Repozytorium
 
 1. **Środowisko**  
-   Upewnij się, że masz zainstalowany MATLAB (lub Octave) umożliwiający otwieranie i uruchamianie plików Live Script (`.m`).
+   Upewnij się, że masz zainstalowany MATLAB umożliwiający otwieranie i uruchamianie plików Live Script (`.mlx`). Wymagane są nastepujące toolboxy: Communications, Symbolic.
 
 2. **Otwieranie Plików**  
-   Przejdź do folderu odpowiadającego danemu ćwiczeniu i otwórz plik `Main.m`. W pliku znajdziesz komentarze oraz instrukcje krok po kroku, które pomogą w zrozumieniu rozwiązania.
+   Przejdź do folderu odpowiadającego danemu ćwiczeniu i otwórz plik `Main#.mlx`. W pliku znajdziesz komentarze oraz instrukcje krok po kroku, które pomogą w zrozumieniu rozwiązania.
 
 3. **Eksperymentowanie**  
    Zachęcam do modyfikacji kodu, eksperymentowania oraz korzystania z przedstawionych przykładów jako bazy do własnych projektów.
